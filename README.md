@@ -42,7 +42,7 @@ Generally you need:
 * Electrum-server support
 * Coinomi core support
 * A beautiful vector icon
-* Entry to the [BIP44 registry](https://github.com/satoshilabs/docs/blob/master/slips/slip-0044.rst) that is maintained by Satoshi labs
+* Entry to the [BIP44 registry](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) that is maintained by Satoshi labs
 
 
 ## Releasing the app
